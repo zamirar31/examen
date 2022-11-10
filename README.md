@@ -3,4 +3,4 @@
 
 ### Diagrama de clases
 
- !["Diagrama de Clases"] (https://app.genmymodel.com/editor/edit/_GqkGkGCSEe2ck8ytUMEi6A)
+ !["Diagrama de Clases"] (https://app.genmymodel.com/api/projects/_GqkGkGCSEe2ck8ytUMEi6A/diagrams/_GqktomCSEe2ck8ytUMEi6A/svg)
